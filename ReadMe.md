@@ -1,6 +1,9 @@
 # E-Commerce Web Application
 A full-stack e-commerce web application built with React, Node.js, Express, and MongoDB. Features user authentication, product catalog with filtering, shopping cart with persistence, and a responsive design.
 
+## Live demo 
+- https://e-commerce-web-application-3x2aplyo9-ishaan282s-projects.vercel.app/
+
 ## Features
 - User Authentication: JWT-based registration and login system
 - Product Catalog: Browse products with category and price filters
